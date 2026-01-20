@@ -1,0 +1,13 @@
+{
+  "name": "storj-llm-dev",
+  "description": "Various plugins, useful for developing storj microservices.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marton Elek",
+    "email": "marton@storj.io"
+  },
+  "homepage": "https://github.com/storj/storj-llm-dev",
+  "repository": "https://github.com/storj/storj-llm-dev",
+  "license": "AGPL",
+  "keywords": ["skills", "tdd", "debugging", "collaboration", "best-practices", "workflows"]
+}

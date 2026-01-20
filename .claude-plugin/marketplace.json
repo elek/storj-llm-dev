@@ -1,0 +1,20 @@
+{
+  "name": "storj-llm-plugins",
+  "description": "Varios plugins, useful for developing Storj services.",
+  "owner": {
+    "name": "Marton Elek",
+    "email": "marton@storj.io"
+  },
+  "plugins": [
+    {
+      "name": "storj-llm-dev",
+      "description": "Various plugins, useful for developing storj microservices.",
+      "version": "1.0.0",
+      "source": "./",
+      "author": {
+        "name": "Marton Elek",
+        "email": "marton@storj.io"
+      }
+    }
+  ]
+}
