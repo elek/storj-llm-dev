@@ -1,7 +1,7 @@
 {
   "name": "storj-llm-dev",
   "description": "Various plugins, useful for developing storj microservices.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": {
     "name": "Marton Elek",
     "email": "marton@storj.io"
